@@ -47,3 +47,9 @@ and this is second way of making Here is a<br />line break line in md file
 \_This is all \*\*plain\*\* text\_.
 
 Here is a<br />line break
+
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
