@@ -3,9 +3,12 @@
 ## Hey whats up?
 
 _what im writing in here is all italics_
+
 *this is also italics*
 
 **and what about in here is all bold**
+
+__this is also bold__
 
 ~~This is cut anything~~
 
