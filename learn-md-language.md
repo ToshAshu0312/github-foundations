@@ -41,7 +41,9 @@ required_providers = {
 This is one way of making horizontal line
 ---
 
-and this is second way of making horizontal line in md file
+and this is second way of making Here is a<br />line break line in md file
 ***
 
 \_This is all \*\*plain\*\* text\_.
+
+Here is a<br />line break
