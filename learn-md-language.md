@@ -43,3 +43,5 @@ This is one way of making horizontal line
 
 and this is second way of making horizontal line in md file
 ***
+
+\_This is all \*\*plain\*\* text\_.
