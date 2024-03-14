@@ -10,6 +10,8 @@ _what im writing in here is all italics_
 
 __this is also bold__
 
+***this is bold italics***
+
 ~~This is cut anything~~
 
 [click here for visiting google](https://www.google.com "google")
@@ -58,4 +60,3 @@ var sum = first + second;
 - [ ] Third task
 
 
-/table
